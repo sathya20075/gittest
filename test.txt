@@ -3,3 +3,5 @@ echo "Hello World"
 echo "Code changes in the release 1"
 
 echo "Code changes in the release 2"
+
+echo "Code changes in the release 3"
